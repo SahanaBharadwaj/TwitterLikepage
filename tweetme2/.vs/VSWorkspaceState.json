@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\templates",
+    "\\templates\\components",
+    "\\templates\\pages",
+    "\\templates\\tweets",
+    "\\tweetme2",
+    "\\tweets",
+    "\\tweets\\migrations"
+  ],
+  "SelectedNode": "\\tweets\\views.py",
+  "PreviewInSolutionExplorer": false
+}
